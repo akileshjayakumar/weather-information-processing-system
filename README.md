@@ -1,44 +1,47 @@
 # Weather Information Processing System
 
 ## Overview
-This program is a Weather Information Processing System. It allows users to read and process a configuration file containing information about city maps, cloud coverage, and atmospheric pressure. Users can then view various visual representations of this data and generate a summary report.
+A system to read, process, and visualize weather data, generating summary reports for city maps, cloud coverage, and atmospheric pressure.
 
 ## Key Features
-- **Configuration File Processing:** Read and process a configuration file containing city maps, cloud coverage, and atmospheric pressure data.
-- **Visual Representation:** Display visual representations of city maps, cloud coverage maps, and atmospheric pressure maps.
-- **Summary Report Generation:** Generate a summary report with average cloud cover, atmospheric pressure, and probability of rain for each city.
+- **Configuration File Processing:** Reads city maps, cloud coverage, and atmospheric pressure data.
+- **Visual Representation:** Displays city maps, cloud coverage maps, and atmospheric pressure maps.
+- **Summary Report Generation:** Creates reports with average cloud cover, atmospheric pressure, and rain probability for each city.
 
-- ## Files
-- `csci251_a1.cpp`: Main program file containing the implementation of the Weather Information Processing System.
-- `akileshMyFunctionsA1.cpp`: Additional functions file containing various functions used in the main program.
-- `akileshMyFunctionsA1.h`: Header file for the additional functions file.
+## Files
+- `csci251_a1.cpp`: Main program implementation.
+- `akileshMyFunctionsA1.cpp`: Additional functions used in the main program.
+- `akileshMyFunctionsA1.h`: Header file for additional functions.
 
-## Project Setup
-1. **Compilation:** Compile the main program file `csci251_a1.cpp` along with the additional functions file `akileshMyFunctionsA1.cpp` using a C++ compiler.
+## Setup
+1. **Compile:**
    ```bash
    g++ csci251_a1.cpp akileshMyFunctionsA1.cpp -o weather_processor
    ```
-2. **Execution:** Execute the compiled executable to run the Weather Information Processing System.
+2. **Run:**
    ```bash
    ./weather_processor
    ```
 
-To get started with this program, clone or download the repository to your local machine. Compile the program as per the setup instructions above and execute the compiled executable to run the Weather Information Processing System.
+Clone or download the repository, compile the program, and run the executable.
 
 ## Contributing
+1. **Fork the Repository**
+2. **Create a Branch:**
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. **Commit Changes:**
+   ```bash
+   git commit -am 'Add new feature: description'
+   ```
+4. **Push to Branch:**
+   ```bash
+   git push origin feature-branch
+   ```
+5. **Submit a Pull Request**
 
-Your contributions are welcome! If you have ideas for improvements or new features:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Submit a pull request.
-
-## Contact Information
-
-For more information, please reach out to me at:
-
-- **Email**: jayakuma006@mymail.sim.edu.sg
-- **LinkedIn**: [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub**: [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
+## Contact
+- **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
+- **LinkedIn:** [Akilesh Jayakumar](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub:** [Akilesh Jayakumar](https://github.com/akileshjayakumar)
