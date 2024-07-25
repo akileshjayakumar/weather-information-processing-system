@@ -1,14 +1,17 @@
 # Weather Information Processing System
 
 ## Overview
+
 A system to read, process, and visualize weather data, generating summary reports for city maps, cloud coverage, and atmospheric pressure.
 
 ## Key Features
+
 - **Configuration File Processing:** Reads city maps, cloud coverage, and atmospheric pressure data.
 - **Visual Representation:** Displays city maps, cloud coverage maps, and atmospheric pressure maps.
 - **Summary Report Generation:** Creates reports with average cloud cover, atmospheric pressure, and rain probability for each city.
 
 ## Files
+
 - `csci251_a1.cpp`: Main program implementation.
 - `akileshMyFunctionsA1.cpp`: Additional functions used in the main program.
 - `akileshMyFunctionsA1.h`: Header file for additional functions.
@@ -26,6 +29,9 @@ A system to read, process, and visualize weather data, generating summary report
 Clone or download the repository, compile the program, and run the executable.
 
 ## Contributing
+
+Your contributions are welcome! If you have ideas for improvements or new features:
+
 1. **Fork the Repository**
 2. **Create a Branch:**
    ```bash
@@ -42,6 +48,7 @@ Clone or download the repository, compile the program, and run the executable.
 5. **Submit a Pull Request**
 
 ## Contact
+
 - **Email:** [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
-- **LinkedIn:** [Akilesh Jayakumar](https://www.linkedin.com/in/akileshjayakumar/)
-- **GitHub:** [Akilesh Jayakumar](https://github.com/akileshjayakumar)
+- **LinkedIn:** [Akilesh Jayakumar on LinkedIn](https://www.linkedin.com/in/akileshjayakumar/)
+- **GitHub:** [Akilesh Jayakumar on GitHub](https://github.com/akileshjayakumar)
